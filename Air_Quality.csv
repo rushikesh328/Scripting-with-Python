@@ -1,0 +1,589 @@
+TimePeriod,GeoType,GeoID,GeoRank,Geography,Nitric Oxide Mean ppb,PM2.5 Mean mcg/m3,Black Carbon Mean absorbance units,Nitrogen Dioxide Mean ppb
+Summer 2021,UHF42,101,4,Kingsbridge - Riverdale,4.9,8.7,0.7,10.8
+Summer 2021,UHF42,102,4,Northeast Bronx,5.6,8.5,0.7,12.4
+Summer 2021,UHF42,103,4,Fordham - Bronx Pk,5.6,8.7,0.7,12.1
+Summer 2021,UHF42,104,4,Pelham - Throgs Neck,6.4,8.5,0.7,12.3
+Summer 2021,UHF42,105,4,Crotona -Tremont,8.2,8.7,0.8,13.8
+Summer 2021,UHF42,106,4,High Bridge - Morrisania,7.5,8.6,0.8,14.2
+Summer 2021,UHF42,107,4,Hunts Point - Mott Haven,9.6,9,0.8,15.1
+Summer 2021,UHF42,201,4,Greenpoint,13.6,9.6,1,17.2
+Summer 2021,UHF42,202,4,Downtown - Heights - Slope,8.7,9.1,0.8,14.6
+Summer 2021,UHF42,203,4,Bedford Stuyvesant - Crown Heights,6.6,8.5,0.7,11.9
+Summer 2021,UHF42,204,4,East New York,6.8,8.3,0.6,10.8
+Summer 2021,UHF42,205,4,Sunset Park,9.2,9,0.8,13.7
+Summer 2021,UHF42,206,4,Borough Park,5.9,8.3,0.6,11.4
+Summer 2021,UHF42,207,4,East Flatbush - Flatbush,6,8.3,0.6,10.7
+Summer 2021,UHF42,208,4,Canarsie - Flatlands,5.4,8,0.5,8.2
+Summer 2021,UHF42,209,4,Bensonhurst - Bay Ridge,6,8.3,0.6,10.8
+Summer 2021,UHF42,210,4,Coney Island - Sheepshead Bay,5.2,8,0.5,8.5
+Summer 2021,UHF42,211,4,Williamsburg - Bushwick,10.2,9.2,0.8,14.7
+Summer 2021,UHF42,301,4,Washington Heights,8.8,8.8,0.8,13.2
+Summer 2021,UHF42,302,4,Central Harlem - Morningside Heights,7,8.8,0.7,14.4
+Summer 2021,UHF42,303,4,East Harlem,7.9,8.7,0.8,14.5
+Summer 2021,UHF42,304,4,Upper West Side,7,8.7,0.8,15.7
+Summer 2021,UHF42,305,4,Upper East Side,8,8.9,0.8,16.7
+Summer 2021,UHF42,306,4,Chelsea - Clinton,9.3,10.4,1,20.2
+Summer 2021,UHF42,307,4,Gramercy Park - Murray Hill,9.1,10.1,0.9,20.2
+Summer 2021,UHF42,308,4,Greenwich Village - SoHo,8.7,10.2,1,17.9
+Summer 2021,UHF42,309,4,Union Square - Lower East Side,7.5,9.8,0.9,15.7
+Summer 2021,UHF42,310,4,Lower Manhattan,7.4,9.6,0.9,17.8
+Summer 2021,UHF42,401,4,Long Island City - Astoria,9.6,9.1,0.8,15.5
+Summer 2021,UHF42,402,4,West Queens,11.5,9,0.8,14.7
+Summer 2021,UHF42,403,4,Flushing - Clearview,5.3,8.2,0.6,11.7
+Summer 2021,UHF42,404,4,Bayside - Little Neck,4.8,7.9,0.6,10
+Summer 2021,UHF42,405,4,Ridgewood - Forest Hills,6.4,8.3,0.6,11.3
+Summer 2021,UHF42,406,4,Fresh Meadows,5.4,7.9,0.6,10.5
+Summer 2021,UHF42,407,4,Southwest Queens,5.4,7.9,0.5,9.8
+Summer 2021,UHF42,408,4,Jamaica,6.4,8,0.6,10.8
+Summer 2021,UHF42,409,4,Southeast Queens,5.5,7.7,0.5,9.9
+Summer 2021,UHF42,410,4,Rockaways,3.4,7.2,0.3,4.9
+Summer 2021,UHF42,501,4,Port Richmond,5.4,8.3,0.6,11.8
+Summer 2021,UHF42,502,4,Stapleton - St. George,4.7,8.1,0.6,9.6
+Summer 2021,UHF42,503,4,Willowbrook,4.5,8,0.5,8.6
+Summer 2021,UHF42,504,4,South Beach - Tottenville,4,7.6,0.4,5.4
+Winter 2020-21,UHF42,101,4,Kingsbridge - Riverdale,12.3,6.4,0.6,18
+Winter 2020-21,UHF42,102,4,Northeast Bronx,14.6,6.3,0.6,19.2
+Winter 2020-21,UHF42,103,4,Fordham - Bronx Pk,14.2,6.4,0.6,19.3
+Winter 2020-21,UHF42,104,4,Pelham - Throgs Neck,15.9,6.6,0.6,19.6
+Winter 2020-21,UHF42,105,4,Crotona -Tremont,18.6,6.8,0.7,20.9
+Winter 2020-21,UHF42,106,4,High Bridge - Morrisania,17.7,6.6,0.7,21.5
+Winter 2020-21,UHF42,107,4,Hunts Point - Mott Haven,20.5,7.1,0.7,21.9
+Winter 2020-21,UHF42,201,4,Greenpoint,26.9,8,0.9,24.8
+Winter 2020-21,UHF42,202,4,Downtown - Heights - Slope,21.6,7.3,0.7,23.9
+Winter 2020-21,UHF42,203,4,Bedford Stuyvesant - Crown Heights,18.6,6.8,0.6,23.1
+Winter 2020-21,UHF42,204,4,East New York,18.3,6.8,0.6,22.2
+Winter 2020-21,UHF42,205,4,Sunset Park,22.3,7.3,0.7,23.4
+Winter 2020-21,UHF42,206,4,Borough Park,18.2,6.7,0.6,23
+Winter 2020-21,UHF42,207,4,East Flatbush - Flatbush,18,6.6,0.6,22.8
+Winter 2020-21,UHF42,208,4,Canarsie - Flatlands,16.1,6.6,0.6,21.2
+Winter 2020-21,UHF42,209,4,Bensonhurst - Bay Ridge,18.3,6.7,0.6,22.3
+Winter 2020-21,UHF42,210,4,Coney Island - Sheepshead Bay,16.7,6.6,0.5,21.6
+Winter 2020-21,UHF42,211,4,Williamsburg - Bushwick,22.7,7.5,0.7,24.1
+Winter 2020-21,UHF42,301,4,Washington Heights,18.6,6.8,0.8,20.5
+Winter 2020-21,UHF42,302,4,Central Harlem - Morningside Heights,16.9,6.7,0.7,21.8
+Winter 2020-21,UHF42,303,4,East Harlem,18.5,6.8,0.7,22
+Winter 2020-21,UHF42,304,4,Upper West Side,17,6.8,0.7,22.8
+Winter 2020-21,UHF42,305,4,Upper East Side,18.8,7.1,0.7,24
+Winter 2020-21,UHF42,306,4,Chelsea - Clinton,21.4,8.6,0.9,26.7
+Winter 2020-21,UHF42,307,4,Gramercy Park - Murray Hill,21,8.3,0.8,27
+Winter 2020-21,UHF42,308,4,Greenwich Village - SoHo,21.4,8.4,0.8,25.4
+Winter 2020-21,UHF42,309,4,Union Square - Lower East Side,19.2,7.9,0.7,24.1
+Winter 2020-21,UHF42,310,4,Lower Manhattan,18.9,7.7,0.8,25.7
+Winter 2020-21,UHF42,401,4,Long Island City - Astoria,21.3,7.4,0.7,23.1
+Winter 2020-21,UHF42,402,4,West Queens,23.2,7.4,0.8,22.9
+Winter 2020-21,UHF42,403,4,Flushing - Clearview,15.1,6.5,0.6,20.1
+Winter 2020-21,UHF42,404,4,Bayside - Little Neck,13.9,6.4,0.6,18.6
+Winter 2020-21,UHF42,405,4,Ridgewood - Forest Hills,17,6.7,0.6,21.5
+Winter 2020-21,UHF42,406,4,Fresh Meadows,15.5,6.4,0.6,20
+Winter 2020-21,UHF42,407,4,Southwest Queens,16.4,6.5,0.6,21.3
+Winter 2020-21,UHF42,408,4,Jamaica,17.1,6.7,0.6,20.9
+Winter 2020-21,UHF42,409,4,Southeast Queens,15.5,6.5,0.6,19.8
+Winter 2020-21,UHF42,410,4,Rockaways,12.3,6.3,0.5,19
+Winter 2020-21,UHF42,501,4,Port Richmond,16.7,6.6,0.6,20.8
+Winter 2020-21,UHF42,502,4,Stapleton - St. George,15,6.5,0.6,20.1
+Winter 2020-21,UHF42,503,4,Willowbrook,14.3,6.5,0.6,18.9
+Winter 2020-21,UHF42,504,4,South Beach - Tottenville,13.3,6.5,0.6,17.5
+Summer 2020,UHF42,101,4,Kingsbridge - Riverdale,4.8,7.2,0.6,12.2
+Summer 2020,UHF42,102,4,Northeast Bronx,4.9,7.2,0.6,13
+Summer 2020,UHF42,103,4,Fordham - Bronx Pk,5.1,7.2,0.6,13.2
+Summer 2020,UHF42,104,4,Pelham - Throgs Neck,5.3,7.1,0.6,12.1
+Summer 2020,UHF42,105,4,Crotona -Tremont,6,7.3,0.6,14.5
+Summer 2020,UHF42,106,4,High Bridge - Morrisania,6,7.2,0.6,14.8
+Summer 2020,UHF42,107,4,Hunts Point - Mott Haven,7.6,7.5,0.6,14.3
+Summer 2020,UHF42,201,4,Greenpoint,10.2,8,0.7,14.7
+Summer 2020,UHF42,202,4,Downtown - Heights - Slope,6.6,7.4,0.6,13
+Summer 2020,UHF42,203,4,Bedford Stuyvesant - Crown Heights,5.6,7,0.5,11.6
+Summer 2020,UHF42,204,4,East New York,5.7,6.9,0.5,10.4
+Summer 2020,UHF42,205,4,Sunset Park,6.6,7.3,0.6,11.8
+Summer 2020,UHF42,206,4,Borough Park,4.6,6.7,0.4,10.7
+Summer 2020,UHF42,207,4,East Flatbush - Flatbush,4.9,6.8,0.4,10.7
+Summer 2020,UHF42,208,4,Canarsie - Flatlands,5,6.6,0.4,8.6
+Summer 2020,UHF42,209,4,Bensonhurst - Bay Ridge,4.4,6.7,0.4,9.8
+Summer 2020,UHF42,210,4,Coney Island - Sheepshead Bay,4.4,6.5,0.4,8.9
+Summer 2020,UHF42,211,4,Williamsburg - Bushwick,8.2,7.6,0.6,13.2
+Summer 2020,UHF42,301,4,Washington Heights,6,7.3,0.6,14
+Summer 2020,UHF42,302,4,Central Harlem - Morningside Heights,5.9,7.4,0.6,14.6
+Summer 2020,UHF42,303,4,East Harlem,6,7.3,0.5,14.2
+Summer 2020,UHF42,304,4,Upper West Side,6.2,7.2,0.5,15.1
+Summer 2020,UHF42,305,4,Upper East Side,6.8,7.4,0.5,16.3
+Summer 2020,UHF42,306,4,Chelsea - Clinton,7.2,8.7,0.6,19.3
+Summer 2020,UHF42,307,4,Gramercy Park - Murray Hill,6.9,8.4,0.6,19.7
+Summer 2020,UHF42,308,4,Greenwich Village - SoHo,6.7,8.4,0.6,16.2
+Summer 2020,UHF42,309,4,Union Square - Lower East Side,6.2,8.1,0.6,14.4
+Summer 2020,UHF42,310,4,Lower Manhattan,6.3,7.8,0.6,16.6
+Summer 2020,UHF42,401,4,Long Island City - Astoria,8.1,7.8,0.6,14.2
+Summer 2020,UHF42,402,4,West Queens,7.3,7.4,0.6,12.8
+Summer 2020,UHF42,403,4,Flushing - Clearview,5.4,7,0.5,11
+Summer 2020,UHF42,404,4,Bayside - Little Neck,4.9,6.7,0.5,8.7
+Summer 2020,UHF42,405,4,Ridgewood - Forest Hills,5.4,6.9,0.5,10.5
+Summer 2020,UHF42,406,4,Fresh Meadows,4.9,6.7,0.5,9.5
+Summer 2020,UHF42,407,4,Southwest Queens,5,6.7,0.4,9.5
+Summer 2020,UHF42,408,4,Jamaica,5.3,6.7,0.4,9.3
+Summer 2020,UHF42,409,4,Southeast Queens,5,6.6,0.4,8.4
+Summer 2020,UHF42,410,4,Rockaways,4.5,6.3,0.3,6
+Summer 2020,UHF42,501,4,Port Richmond,4.2,6.9,0.5,9.8
+Summer 2020,UHF42,502,4,Stapleton - St. George,3.9,6.6,0.4,8
+Summer 2020,UHF42,503,4,Willowbrook,3.7,6.6,0.5,7.8
+Summer 2020,UHF42,504,4,South Beach - Tottenville,3.6,6.5,0.4,7.3
+Winter 2019-20,UHF42,101,4,Kingsbridge - Riverdale,15.6,6.4,0.6,21.3
+Winter 2019-20,UHF42,102,4,Northeast Bronx,16.2,6.7,0.6,21.9
+Winter 2019-20,UHF42,103,4,Fordham - Bronx Pk,17.4,6.7,0.6,22.6
+Winter 2019-20,UHF42,104,4,Pelham - Throgs Neck,18.2,7.3,0.6,22.2
+Winter 2019-20,UHF42,105,4,Crotona -Tremont,20.4,7.4,0.7,24.8
+Winter 2019-20,UHF42,106,4,High Bridge - Morrisania,21.5,7.1,0.7,25.8
+Winter 2019-20,UHF42,107,4,Hunts Point - Mott Haven,27.9,7.3,0.7,25.3
+Winter 2019-20,UHF42,201,4,Greenpoint,42.3,8.6,0.8,29.3
+Winter 2019-20,UHF42,202,4,Downtown - Heights - Slope,28.8,8.6,0.7,28.6
+Winter 2019-20,UHF42,203,4,Bedford Stuyvesant - Crown Heights,23.8,7.8,0.6,27.6
+Winter 2019-20,UHF42,204,4,East New York,23.3,7.4,0.6,25.5
+Winter 2019-20,UHF42,205,4,Sunset Park,28.4,8.2,0.6,26.4
+Winter 2019-20,UHF42,206,4,Borough Park,18.9,7.5,0.5,25.6
+Winter 2019-20,UHF42,207,4,East Flatbush - Flatbush,20,7.5,0.5,26.1
+Winter 2019-20,UHF42,208,4,Canarsie - Flatlands,19.5,6.8,0.5,22.9
+Winter 2019-20,UHF42,209,4,Bensonhurst - Bay Ridge,17.6,7.6,0.5,23.8
+Winter 2019-20,UHF42,210,4,Coney Island - Sheepshead Bay,16.5,7,0.5,22.1
+Winter 2019-20,UHF42,211,4,Williamsburg - Bushwick,35.1,8.3,0.7,28.7
+Winter 2019-20,UHF42,301,4,Washington Heights,20.8,7.3,0.7,24.6
+Winter 2019-20,UHF42,302,4,Central Harlem - Morningside Heights,22,7.6,0.7,26.6
+Winter 2019-20,UHF42,303,4,East Harlem,22.4,7.8,0.7,26.8
+Winter 2019-20,UHF42,304,4,Upper West Side,23.7,7.9,0.7,28.1
+Winter 2019-20,UHF42,305,4,Upper East Side,26.8,8.6,0.7,29.8
+Winter 2019-20,UHF42,306,4,Chelsea - Clinton,29.2,11.4,0.9,33.6
+Winter 2019-20,UHF42,307,4,Gramercy Park - Murray Hill,27.8,11,0.8,34.2
+Winter 2019-20,UHF42,308,4,Greenwich Village - SoHo,28.9,11,0.8,31.6
+Winter 2019-20,UHF42,309,4,Union Square - Lower East Side,26.8,10.3,0.8,30.1
+Winter 2019-20,UHF42,310,4,Lower Manhattan,28,9.9,0.8,32.1
+Winter 2019-20,UHF42,401,4,Long Island City - Astoria,31.5,8.3,0.8,27.6
+Winter 2019-20,UHF42,402,4,West Queens,29.1,8.2,0.7,26.7
+Winter 2019-20,UHF42,403,4,Flushing - Clearview,20.8,7.8,0.6,22.9
+Winter 2019-20,UHF42,404,4,Bayside - Little Neck,18.4,7.6,0.5,19.9
+Winter 2019-20,UHF42,405,4,Ridgewood - Forest Hills,22.2,7.7,0.6,25.3
+Winter 2019-20,UHF42,406,4,Fresh Meadows,19.3,7.6,0.5,22.5
+Winter 2019-20,UHF42,407,4,Southwest Queens,19.7,7.4,0.5,23.9
+Winter 2019-20,UHF42,408,4,Jamaica,20.7,7.4,0.5,22.3
+Winter 2019-20,UHF42,409,4,Southeast Queens,18.9,7.2,0.5,20.1
+Winter 2019-20,UHF42,410,4,Rockaways,15.6,6.1,0.4,17.6
+Winter 2019-20,UHF42,501,4,Port Richmond,18.3,7.4,0.6,21.9
+Winter 2019-20,UHF42,502,4,Stapleton - St. George,16.5,7.2,0.5,20.5
+Winter 2019-20,UHF42,503,4,Willowbrook,15.1,7,0.6,18.5
+Winter 2019-20,UHF42,504,4,South Beach - Tottenville,13.5,6,0.5,15.4
+Summer 2019,UHF42,101,4,Kingsbridge - Riverdale,5.6,7.8,0.8,10.4
+Summer 2019,UHF42,102,4,Northeast Bronx,6.3,7.7,0.8,12.3
+Summer 2019,UHF42,103,4,Fordham - Bronx Pk,6.2,7.8,0.9,12.2
+Summer 2019,UHF42,104,4,Pelham - Throgs Neck,6.7,7.8,0.8,12.8
+Summer 2019,UHF42,105,4,Crotona -Tremont,7.6,8.3,0.9,14.4
+Summer 2019,UHF42,106,4,High Bridge - Morrisania,7.2,8.3,0.9,15.4
+Summer 2019,UHF42,107,4,Hunts Point - Mott Haven,8.1,8.7,1,15.5
+Summer 2019,UHF42,201,4,Greenpoint,10.4,9.9,1.2,19.2
+Summer 2019,UHF42,202,4,Downtown - Heights - Slope,9,8.9,1,18
+Summer 2019,UHF42,203,4,Bedford Stuyvesant - Crown Heights,6,8.1,0.8,14.3
+Summer 2019,UHF42,204,4,East New York,5.4,8,0.8,12
+Summer 2019,UHF42,205,4,Sunset Park,9.4,8.9,1,16.2
+Summer 2019,UHF42,206,4,Borough Park,5.7,7.9,0.8,13.6
+Summer 2019,UHF42,207,4,East Flatbush - Flatbush,5.4,7.9,0.8,12.8
+Summer 2019,UHF42,208,4,Canarsie - Flatlands,4.8,7.7,0.6,9.2
+Summer 2019,UHF42,209,4,Bensonhurst - Bay Ridge,5.9,7.8,0.7,13
+Summer 2019,UHF42,210,4,Coney Island - Sheepshead Bay,4.9,7.6,0.6,10
+Summer 2019,UHF42,211,4,Williamsburg - Bushwick,8,9,1,16.7
+Summer 2019,UHF42,301,4,Washington Heights,8.3,8.2,0.9,14
+Summer 2019,UHF42,302,4,Central Harlem - Morningside Heights,7,8.2,0.9,16.8
+Summer 2019,UHF42,303,4,East Harlem,7.3,8.3,0.9,16.7
+Summer 2019,UHF42,304,4,Upper West Side,8.2,8.6,0.9,18.8
+Summer 2019,UHF42,305,4,Upper East Side,9,9.1,1,20.1
+Summer 2019,UHF42,306,4,Chelsea - Clinton,10.6,11.2,1.4,24.9
+Summer 2019,UHF42,307,4,Gramercy Park - Murray Hill,9.8,11.1,1.4,24.8
+Summer 2019,UHF42,308,4,Greenwich Village - SoHo,10.3,10.8,1.4,22.6
+Summer 2019,UHF42,309,4,Union Square - Lower East Side,8.9,10.1,1.2,20.3
+Summer 2019,UHF42,310,4,Lower Manhattan,10,9.5,1.2,23.1
+Summer 2019,UHF42,401,4,Long Island City - Astoria,8,9.3,1.1,17.7
+Summer 2019,UHF42,402,4,West Queens,7.1,8.6,1,15.6
+Summer 2019,UHF42,403,4,Flushing - Clearview,6.9,7.8,0.8,13.6
+Summer 2019,UHF42,404,4,Bayside - Little Neck,8.2,7.3,0.7,12.5
+Summer 2019,UHF42,405,4,Ridgewood - Forest Hills,5.3,7.9,0.8,12.8
+Summer 2019,UHF42,406,4,Fresh Meadows,6.5,7.3,0.7,12.6
+Summer 2019,UHF42,407,4,Southwest Queens,5.3,7.5,0.7,11.7
+Summer 2019,UHF42,408,4,Jamaica,7.2,7.5,0.7,13
+Summer 2019,UHF42,409,4,Southeast Queens,8.3,7.2,0.6,13
+Summer 2019,UHF42,410,4,Rockaways,5,7,0.4,7.3
+Summer 2019,UHF42,501,4,Port Richmond,5,7.8,0.8,14.3
+Summer 2019,UHF42,502,4,Stapleton - St. George,5.3,7.4,0.7,11.4
+Summer 2019,UHF42,503,4,Willowbrook,4.1,7.4,0.7,10.4
+Summer 2019,UHF42,504,4,South Beach - Tottenville,3.5,7.2,0.5,7.8
+Winter 2018-19,UHF42,101,4,Kingsbridge - Riverdale,16,7.2,0.6,18.3
+Winter 2018-19,UHF42,102,4,Northeast Bronx,16.3,7.2,0.6,19.1
+Winter 2018-19,UHF42,103,4,Fordham - Bronx Pk,17.3,7.2,0.6,19.9
+Winter 2018-19,UHF42,104,4,Pelham - Throgs Neck,17.5,7.3,0.6,20.4
+Winter 2018-19,UHF42,105,4,Crotona -Tremont,19.7,7.9,0.7,22.6
+Winter 2018-19,UHF42,106,4,High Bridge - Morrisania,20.3,7.8,0.7,23.9
+Winter 2018-19,UHF42,107,4,Hunts Point - Mott Haven,24.6,8,0.8,24.2
+Winter 2018-19,UHF42,201,4,Greenpoint,31.5,9.2,0.9,26.7
+Winter 2018-19,UHF42,202,4,Downtown - Heights - Slope,21.9,8.2,0.7,24.8
+Winter 2018-19,UHF42,203,4,Bedford Stuyvesant - Crown Heights,19,7.2,0.6,23.2
+Winter 2018-19,UHF42,204,4,East New York,18.7,7.2,0.6,21.6
+Winter 2018-19,UHF42,205,4,Sunset Park,21.2,8,0.7,23.3
+Winter 2018-19,UHF42,206,4,Borough Park,15.3,6.9,0.5,21.8
+Winter 2018-19,UHF42,207,4,East Flatbush - Flatbush,16.3,6.9,0.5,21.7
+Winter 2018-19,UHF42,208,4,Canarsie - Flatlands,15.9,6.7,0.4,18.7
+Winter 2018-19,UHF42,209,4,Bensonhurst - Bay Ridge,14.2,6.8,0.5,20.5
+Winter 2018-19,UHF42,210,4,Coney Island - Sheepshead Bay,13.8,6.7,0.4,18.5
+Winter 2018-19,UHF42,211,4,Williamsburg - Bushwick,26.3,8.1,0.7,25.2
+Winter 2018-19,UHF42,301,4,Washington Heights,19.5,7.8,0.7,22.2
+Winter 2018-19,UHF42,302,4,Central Harlem - Morningside Heights,20.4,7.6,0.7,24.7
+Winter 2018-19,UHF42,303,4,East Harlem,20.6,7.8,0.7,24.4
+Winter 2018-19,UHF42,304,4,Upper West Side,21.2,8.2,0.7,25.2
+Winter 2018-19,UHF42,305,4,Upper East Side,23.4,9,0.8,26.5
+Winter 2018-19,UHF42,306,4,Chelsea - Clinton,24.2,11.8,1,29.5
+Winter 2018-19,UHF42,307,4,Gramercy Park - Murray Hill,23.2,11.7,1,29.7
+Winter 2018-19,UHF42,308,4,Greenwich Village - SoHo,22.8,11,1,27.5
+Winter 2018-19,UHF42,309,4,Union Square - Lower East Side,21.4,10.1,0.9,25.9
+Winter 2018-19,UHF42,310,4,Lower Manhattan,21.7,9.3,0.8,27.7
+Winter 2018-19,UHF42,401,4,Long Island City - Astoria,25.7,8.6,0.8,25.7
+Winter 2018-19,UHF42,402,4,West Queens,23.3,8,0.8,24.4
+Winter 2018-19,UHF42,403,4,Flushing - Clearview,18.4,7.2,0.6,21.2
+Winter 2018-19,UHF42,404,4,Bayside - Little Neck,16.3,6.9,0.5,18.2
+Winter 2018-19,UHF42,405,4,Ridgewood - Forest Hills,18.4,7.2,0.6,22
+Winter 2018-19,UHF42,406,4,Fresh Meadows,16.7,6.8,0.5,20.3
+Winter 2018-19,UHF42,407,4,Southwest Queens,16.3,6.9,0.5,20.4
+Winter 2018-19,UHF42,408,4,Jamaica,17.1,6.9,0.5,19.9
+Winter 2018-19,UHF42,409,4,Southeast Queens,16,6.7,0.4,18
+Winter 2018-19,UHF42,410,4,Rockaways,13.1,6.3,0.3,13.9
+Winter 2018-19,UHF42,501,4,Port Richmond,13.4,6.9,0.6,20.1
+Winter 2018-19,UHF42,502,4,Stapleton - St. George,12.7,6.4,0.5,17.8
+Winter 2018-19,UHF42,503,4,Willowbrook,11.4,6.5,0.5,16.6
+Winter 2018-19,UHF42,504,4,South Beach - Tottenville,10.6,6.4,0.4,14.2
+Summer 2018,UHF42,101,4,Kingsbridge - Riverdale,6.2,8.2,0.8,11.7
+Summer 2018,UHF42,102,4,Northeast Bronx,6.3,8.3,0.9,13
+Summer 2018,UHF42,103,4,Fordham - Bronx Pk,7,8.6,0.9,13.3
+Summer 2018,UHF42,104,4,Pelham - Throgs Neck,7,8.4,0.8,12.8
+Summer 2018,UHF42,105,4,Crotona -Tremont,7.7,8.9,0.9,15.2
+Summer 2018,UHF42,106,4,High Bridge - Morrisania,7.8,9.1,1,15.8
+Summer 2018,UHF42,107,4,Hunts Point - Mott Haven,7.2,9.2,1,15.2
+Summer 2018,UHF42,201,4,Greenpoint,9.2,9.8,1.1,17.5
+Summer 2018,UHF42,202,4,Downtown - Heights - Slope,8.9,8.9,1,16.4
+Summer 2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,7.9,8.5,0.8,14
+Summer 2018,UHF42,204,4,East New York,6.8,8.4,0.8,12
+Summer 2018,UHF42,205,4,Sunset Park,7.3,8.8,0.9,14.4
+Summer 2018,UHF42,206,4,Borough Park,6.6,8.2,0.7,12.6
+Summer 2018,UHF42,207,4,East Flatbush - Flatbush,7.3,8.3,0.7,12.3
+Summer 2018,UHF42,208,4,Canarsie - Flatlands,6.1,8,0.6,9
+Summer 2018,UHF42,209,4,Bensonhurst - Bay Ridge,5.8,7.8,0.7,11.5
+Summer 2018,UHF42,210,4,Coney Island - Sheepshead Bay,5.6,7.9,0.6,9.1
+Summer 2018,UHF42,211,4,Williamsburg - Bushwick,8.2,9.3,1,15.8
+Summer 2018,UHF42,301,4,Washington Heights,9,8.6,0.9,15
+Summer 2018,UHF42,302,4,Central Harlem - Morningside Heights,8.5,8.9,0.9,16.9
+Summer 2018,UHF42,303,4,East Harlem,9,8.7,0.9,16.4
+Summer 2018,UHF42,304,4,Upper West Side,12,9.5,1,18.4
+Summer 2018,UHF42,305,4,Upper East Side,14.3,10,1,19.9
+Summer 2018,UHF42,306,4,Chelsea - Clinton,14.5,11.2,1.5,24.8
+Summer 2018,UHF42,307,4,Gramercy Park - Murray Hill,13.4,11.6,1.5,26.1
+Summer 2018,UHF42,308,4,Greenwich Village - SoHo,17.5,9.9,1.3,21.5
+Summer 2018,UHF42,309,4,Union Square - Lower East Side,13,9.3,1.2,19.4
+Summer 2018,UHF42,310,4,Lower Manhattan,10.6,10.1,1.3,21.8
+Summer 2018,UHF42,401,4,Long Island City - Astoria,7.8,9.4,1.1,16.4
+Summer 2018,UHF42,402,4,West Queens,7.3,8.9,0.9,14.9
+Summer 2018,UHF42,403,4,Flushing - Clearview,6.4,8.3,0.8,12.9
+Summer 2018,UHF42,404,4,Bayside - Little Neck,6.3,8,0.8,11.7
+Summer 2018,UHF42,405,4,Ridgewood - Forest Hills,7,8.3,0.8,12.5
+Summer 2018,UHF42,406,4,Fresh Meadows,6.4,8,0.7,12.4
+Summer 2018,UHF42,407,4,Southwest Queens,6.4,8,0.7,11.8
+Summer 2018,UHF42,408,4,Jamaica,6.3,8.2,0.8,12.8
+Summer 2018,UHF42,409,4,Southeast Queens,6,8,0.7,12.2
+Summer 2018,UHF42,410,4,Rockaways,5.3,7.8,0.4,6.7
+Summer 2018,UHF42,501,4,Port Richmond,4.2,7.8,0.7,12.3
+Summer 2018,UHF42,502,4,Stapleton - St. George,4.7,7.5,0.6,9.3
+Summer 2018,UHF42,503,4,Willowbrook,3.7,7.7,0.6,9.1
+Summer 2018,UHF42,504,4,South Beach - Tottenville,3,7.3,0.6,6.3
+Winter 2017-18,UHF42,101,4,Kingsbridge - Riverdale,17.9,8,0.8,21.3
+Winter 2017-18,UHF42,102,4,Northeast Bronx,17.4,8.1,0.8,21.3
+Winter 2017-18,UHF42,103,4,Fordham - Bronx Pk,19.6,8.2,0.9,22.8
+Winter 2017-18,UHF42,104,4,Pelham - Throgs Neck,18.1,8.1,0.8,22.9
+Winter 2017-18,UHF42,105,4,Crotona -Tremont,20.1,8.5,0.9,25.8
+Winter 2017-18,UHF42,106,4,High Bridge - Morrisania,20.1,8.6,0.9,27
+Winter 2017-18,UHF42,107,4,Hunts Point - Mott Haven,18.4,8.8,1,26.8
+Winter 2017-18,UHF42,201,4,Greenpoint,24,10.1,1.1,28.1
+Winter 2017-18,UHF42,202,4,Downtown - Heights - Slope,25,9.4,0.9,27.2
+Winter 2017-18,UHF42,203,4,Bedford Stuyvesant - Crown Heights,22.9,8.6,0.8,26.2
+Winter 2017-18,UHF42,204,4,East New York,19.7,8.2,0.8,24.5
+Winter 2017-18,UHF42,205,4,Sunset Park,20.9,9.2,0.8,25.8
+Winter 2017-18,UHF42,206,4,Borough Park,18.7,8.4,0.7,24.2
+Winter 2017-18,UHF42,207,4,East Flatbush - Flatbush,21,8.4,0.7,24.3
+Winter 2017-18,UHF42,208,4,Canarsie - Flatlands,16.4,7.9,0.6,20.5
+Winter 2017-18,UHF42,209,4,Bensonhurst - Bay Ridge,16.4,8.1,0.7,22.7
+Winter 2017-18,UHF42,210,4,Coney Island - Sheepshead Bay,14.5,7.8,0.6,19.7
+Winter 2017-18,UHF42,211,4,Williamsburg - Bushwick,23.1,9.4,1,27.7
+Winter 2017-18,UHF42,301,4,Washington Heights,21.7,8.3,0.9,25.6
+Winter 2017-18,UHF42,302,4,Central Harlem - Morningside Heights,20.9,8.4,0.9,27.5
+Winter 2017-18,UHF42,303,4,East Harlem,21.6,8.4,0.9,26.8
+Winter 2017-18,UHF42,304,4,Upper West Side,26.5,9.2,0.9,27.3
+Winter 2017-18,UHF42,305,4,Upper East Side,30.5,9.8,1,28.6
+Winter 2017-18,UHF42,306,4,Chelsea - Clinton,32.5,11.2,1.3,31.9
+Winter 2017-18,UHF42,307,4,Gramercy Park - Murray Hill,30.6,11.5,1.3,33
+Winter 2017-18,UHF42,308,4,Greenwich Village - SoHo,37.5,10.2,1.1,29.6
+Winter 2017-18,UHF42,309,4,Union Square - Lower East Side,30.2,9.6,1,28.1
+Winter 2017-18,UHF42,310,4,Lower Manhattan,29.1,10.4,1.1,30.1
+Winter 2017-18,UHF42,401,4,Long Island City - Astoria,19.1,9.3,1,27.1
+Winter 2017-18,UHF42,402,4,West Queens,19.5,8.7,0.9,26.8
+Winter 2017-18,UHF42,403,4,Flushing - Clearview,17,7.9,0.7,24.4
+Winter 2017-18,UHF42,404,4,Bayside - Little Neck,15.8,7.6,0.6,21.8
+Winter 2017-18,UHF42,405,4,Ridgewood - Forest Hills,19.9,8.1,0.8,25.2
+Winter 2017-18,UHF42,406,4,Fresh Meadows,17.4,7.6,0.7,24.3
+Winter 2017-18,UHF42,407,4,Southwest Queens,17.7,7.6,0.7,24
+Winter 2017-18,UHF42,408,4,Jamaica,16.5,7.7,0.7,23.8
+Winter 2017-18,UHF42,409,4,Southeast Queens,14.4,7.5,0.6,21.6
+Winter 2017-18,UHF42,410,4,Rockaways,10.9,7,0.5,14.4
+Winter 2017-18,UHF42,501,4,Port Richmond,14.3,8.2,0.8,22.6
+Winter 2017-18,UHF42,502,4,Stapleton - St. George,14.6,7.8,0.6,20.1
+Winter 2017-18,UHF42,503,4,Willowbrook,12.7,8,0.7,19.5
+Winter 2017-18,UHF42,504,4,South Beach - Tottenville,10.5,7.6,0.6,17.2
+Summer 2017,UHF42,101,4,Kingsbridge - Riverdale,6.6,9.5,1,13
+Summer 2017,UHF42,102,4,Northeast Bronx,7.2,9.2,1,14.4
+Summer 2017,UHF42,103,4,Fordham - Bronx Pk,7.4,9.4,1.1,14.9
+Summer 2017,UHF42,104,4,Pelham - Throgs Neck,7.6,9.3,1,14.1
+Summer 2017,UHF42,105,4,Crotona -Tremont,8.5,10.1,1.1,17.1
+Summer 2017,UHF42,106,4,High Bridge - Morrisania,8.3,10.1,1.2,17.7
+Summer 2017,UHF42,107,4,Hunts Point - Mott Haven,7.5,10.2,1.2,15.8
+Summer 2017,UHF42,201,4,Greenpoint,9.5,10.8,1.2,16.4
+Summer 2017,UHF42,202,4,Downtown - Heights - Slope,10,10.1,1,16.6
+Summer 2017,UHF42,203,4,Bedford Stuyvesant - Crown Heights,8.5,9.1,0.9,15.2
+Summer 2017,UHF42,204,4,East New York,8,9,0.8,13.4
+Summer 2017,UHF42,205,4,Sunset Park,8.1,9.8,0.9,14.1
+Summer 2017,UHF42,206,4,Borough Park,7.2,8.8,0.8,13.8
+Summer 2017,UHF42,207,4,East Flatbush - Flatbush,8,8.9,0.8,13.8
+Summer 2017,UHF42,208,4,Canarsie - Flatlands,6.7,8.5,0.7,10.3
+Summer 2017,UHF42,209,4,Bensonhurst - Bay Ridge,6.7,8.5,0.8,12.8
+Summer 2017,UHF42,210,4,Coney Island - Sheepshead Bay,6.3,8.2,0.7,10.7
+Summer 2017,UHF42,211,4,Williamsburg - Bushwick,8.4,9.9,1,15.7
+Summer 2017,UHF42,301,4,Washington Heights,8.7,9.9,1.1,16.7
+Summer 2017,UHF42,302,4,Central Harlem - Morningside Heights,8.8,9.9,1.2,18.9
+Summer 2017,UHF42,303,4,East Harlem,9.6,10,1.1,18.6
+Summer 2017,UHF42,304,4,Upper West Side,12.3,10.1,1.2,20
+Summer 2017,UHF42,305,4,Upper East Side,15.6,10.4,1.2,21.9
+Summer 2017,UHF42,306,4,Chelsea - Clinton,16.1,11.3,1.3,26.2
+Summer 2017,UHF42,307,4,Gramercy Park - Murray Hill,15.8,11.5,1.2,28.6
+Summer 2017,UHF42,308,4,Greenwich Village - SoHo,19.3,10.7,1.4,22.4
+Summer 2017,UHF42,309,4,Union Square - Lower East Side,14.7,10.2,1.2,20.6
+Summer 2017,UHF42,310,4,Lower Manhattan,11.9,10.5,1.1,22.9
+Summer 2017,UHF42,401,4,Long Island City - Astoria,7.8,10.2,1.2,16.2
+Summer 2017,UHF42,402,4,West Queens,7.7,9.6,1,15.8
+Summer 2017,UHF42,403,4,Flushing - Clearview,6.6,8.9,0.8,13.9
+Summer 2017,UHF42,404,4,Bayside - Little Neck,6.8,8.6,0.7,12.6
+Summer 2017,UHF42,405,4,Ridgewood - Forest Hills,7.6,8.8,0.8,13.8
+Summer 2017,UHF42,406,4,Fresh Meadows,6.9,8.6,0.8,13.8
+Summer 2017,UHF42,407,4,Southwest Queens,7,8.4,0.7,13.3
+Summer 2017,UHF42,408,4,Jamaica,6.8,8.6,0.8,13.7
+Summer 2017,UHF42,409,4,Southeast Queens,6.1,8.3,0.7,12.6
+Summer 2017,UHF42,410,4,Rockaways,5.8,7.7,0.5,7.8
+Summer 2017,UHF42,501,4,Port Richmond,5,8.6,0.8,13.3
+Summer 2017,UHF42,502,4,Stapleton - St. George,5.6,8.2,0.7,10.3
+Summer 2017,UHF42,503,4,Willowbrook,4.6,8.3,0.8,10.2
+Summer 2017,UHF42,504,4,South Beach - Tottenville,3.7,7.9,0.7,7.8
+Winter 2016-17,UHF42,101,4,Kingsbridge - Riverdale,19.1,7.9,0.8,24.3
+Winter 2016-17,UHF42,102,4,Northeast Bronx,20.8,8.1,0.9,26.4
+Winter 2016-17,UHF42,103,4,Fordham - Bronx Pk,21.8,8.1,0.9,26.3
+Winter 2016-17,UHF42,104,4,Pelham - Throgs Neck,22.3,8.2,0.9,25.9
+Winter 2016-17,UHF42,105,4,Crotona -Tremont,23.3,8.6,1,27.7
+Winter 2016-17,UHF42,106,4,High Bridge - Morrisania,22.8,8.6,1,28
+Winter 2016-17,UHF42,107,4,Hunts Point - Mott Haven,21.7,8.8,1,27
+Winter 2016-17,UHF42,201,4,Greenpoint,23.6,9.3,1,26.7
+Winter 2016-17,UHF42,202,4,Downtown - Heights - Slope,23.6,8.5,0.8,26.3
+Winter 2016-17,UHF42,203,4,Bedford Stuyvesant - Crown Heights,22.6,7.9,0.7,26.2
+Winter 2016-17,UHF42,204,4,East New York,21.8,8.1,0.7,24.9
+Winter 2016-17,UHF42,205,4,Sunset Park,20.8,8.3,0.8,24.3
+Winter 2016-17,UHF42,206,4,Borough Park,20.3,7.6,0.7,25
+Winter 2016-17,UHF42,207,4,East Flatbush - Flatbush,22.1,7.8,0.7,25.2
+Winter 2016-17,UHF42,208,4,Canarsie - Flatlands,20.1,7.6,0.6,22.8
+Winter 2016-17,UHF42,209,4,Bensonhurst - Bay Ridge,18.7,7.4,0.6,23.8
+Winter 2016-17,UHF42,210,4,Coney Island - Sheepshead Bay,19.3,7.4,0.6,23.2
+Winter 2016-17,UHF42,211,4,Williamsburg - Bushwick,22.4,8.6,0.9,26.6
+Winter 2016-17,UHF42,301,4,Washington Heights,23,8.2,0.9,26.8
+Winter 2016-17,UHF42,302,4,Central Harlem - Morningside Heights,23.1,8.3,0.9,28.5
+Winter 2016-17,UHF42,303,4,East Harlem,24.3,8.4,0.9,28.1
+Winter 2016-17,UHF42,304,4,Upper West Side,27.8,8.6,0.9,28.6
+Winter 2016-17,UHF42,305,4,Upper East Side,32.8,9.1,0.9,30.2
+Winter 2016-17,UHF42,306,4,Chelsea - Clinton,32.2,10,1.1,32.9
+Winter 2016-17,UHF42,307,4,Gramercy Park - Murray Hill,31.9,10.5,1,34.7
+Winter 2016-17,UHF42,308,4,Greenwich Village - SoHo,35.9,9.1,1.1,30.1
+Winter 2016-17,UHF42,309,4,Union Square - Lower East Side,29.5,8.7,0.9,29
+Winter 2016-17,UHF42,310,4,Lower Manhattan,26.3,9.1,0.9,30.2
+Winter 2016-17,UHF42,401,4,Long Island City - Astoria,21,8.8,1,26.9
+Winter 2016-17,UHF42,402,4,West Queens,21.4,8.5,0.9,26.8
+Winter 2016-17,UHF42,403,4,Flushing - Clearview,20.6,8,0.7,25.5
+Winter 2016-17,UHF42,404,4,Bayside - Little Neck,20.7,7.9,0.6,23.8
+Winter 2016-17,UHF42,405,4,Ridgewood - Forest Hills,21.4,7.9,0.7,25.1
+Winter 2016-17,UHF42,406,4,Fresh Meadows,20.8,7.8,0.7,24.9
+Winter 2016-17,UHF42,407,4,Southwest Queens,20.8,7.7,0.7,24.9
+Winter 2016-17,UHF42,408,4,Jamaica,20.8,7.9,0.7,24.8
+Winter 2016-17,UHF42,409,4,Southeast Queens,19.9,7.7,0.6,24
+Winter 2016-17,UHF42,410,4,Rockaways,19.2,7.3,0.5,21.1
+Winter 2016-17,UHF42,501,4,Port Richmond,13.8,7.4,0.7,21.5
+Winter 2016-17,UHF42,502,4,Stapleton - St. George,15.6,7.1,0.6,19.9
+Winter 2016-17,UHF42,503,4,Willowbrook,13.3,7.3,0.6,18.8
+Winter 2016-17,UHF42,504,4,South Beach - Tottenville,12.4,6.9,0.6,17.5
+Summer 2016,UHF42,101,4,Kingsbridge - Riverdale,7.4,8,0.8,13
+Summer 2016,UHF42,102,4,Northeast Bronx,7.9,7.9,0.9,14.6
+Summer 2016,UHF42,103,4,Fordham - Bronx Pk,8.2,8,0.9,14.8
+Summer 2016,UHF42,104,4,Pelham - Throgs Neck,7.9,8.1,0.9,14.2
+Summer 2016,UHF42,105,4,Crotona -Tremont,8.8,8.8,1.1,16.7
+Summer 2016,UHF42,106,4,High Bridge - Morrisania,8.5,8.8,1.1,17.1
+Summer 2016,UHF42,107,4,Hunts Point - Mott Haven,7.7,9,1.1,15.6
+Summer 2016,UHF42,201,4,Greenpoint,11.1,9.8,1.3,16.6
+Summer 2016,UHF42,202,4,Downtown - Heights - Slope,11.5,9.2,1.1,17.3
+Summer 2016,UHF42,203,4,Bedford Stuyvesant - Crown Heights,9.8,8.3,0.9,15.4
+Summer 2016,UHF42,204,4,East New York,8.8,8.3,0.9,13.1
+Summer 2016,UHF42,205,4,Sunset Park,9,8.9,1,15.1
+Summer 2016,UHF42,206,4,Borough Park,7.8,8.1,0.8,14.2
+Summer 2016,UHF42,207,4,East Flatbush - Flatbush,8.9,8.1,0.8,14
+Summer 2016,UHF42,208,4,Canarsie - Flatlands,7,7.8,0.7,10
+Summer 2016,UHF42,209,4,Bensonhurst - Bay Ridge,7,7.9,0.8,13.3
+Summer 2016,UHF42,210,4,Coney Island - Sheepshead Bay,6.2,7.7,0.7,10.4
+Summer 2016,UHF42,211,4,Williamsburg - Bushwick,10,9,1,15.9
+Summer 2016,UHF42,301,4,Washington Heights,9.1,8.4,1.1,16.2
+Summer 2016,UHF42,302,4,Central Harlem - Morningside Heights,9.2,8.7,1.1,18.1
+Summer 2016,UHF42,303,4,East Harlem,9.9,8.9,1.2,17.8
+Summer 2016,UHF42,304,4,Upper West Side,13.2,9.1,1.3,19.1
+Summer 2016,UHF42,305,4,Upper East Side,16.6,9.7,1.5,20.8
+Summer 2016,UHF42,306,4,Chelsea - Clinton,17.8,10.8,1.6,25
+Summer 2016,UHF42,307,4,Gramercy Park - Murray Hill,17.2,11.2,1.6,26.9
+Summer 2016,UHF42,308,4,Greenwich Village - SoHo,22.2,9.8,1.7,22.2
+Summer 2016,UHF42,309,4,Union Square - Lower East Side,16.9,9.3,1.4,20.4
+Summer 2016,UHF42,310,4,Lower Manhattan,13.8,9.8,1.1,22.8
+Summer 2016,UHF42,401,4,Long Island City - Astoria,8.7,9.2,1.1,16
+Summer 2016,UHF42,402,4,West Queens,8.5,8.7,1,15.6
+Summer 2016,UHF42,403,4,Flushing - Clearview,6.9,7.8,0.8,14.1
+Summer 2016,UHF42,404,4,Bayside - Little Neck,6.6,7.4,0.8,12.7
+Summer 2016,UHF42,405,4,Ridgewood - Forest Hills,8.5,8,0.8,13.6
+Summer 2016,UHF42,406,4,Fresh Meadows,7.1,7.6,0.8,13.7
+Summer 2016,UHF42,407,4,Southwest Queens,7.5,7.6,0.7,12.8
+Summer 2016,UHF42,408,4,Jamaica,6.8,7.6,0.8,13.1
+Summer 2016,UHF42,409,4,Southeast Queens,5.8,7.1,0.7,12.1
+Summer 2016,UHF42,410,4,Rockaways,5.1,6.9,0.5,6.2
+Summer 2016,UHF42,501,4,Port Richmond,6,8.2,0.7,13.9
+Summer 2016,UHF42,502,4,Stapleton - St. George,6.1,7.8,0.6,10.9
+Summer 2016,UHF42,503,4,Willowbrook,5.3,8.1,0.7,10.2
+Summer 2016,UHF42,504,4,South Beach - Tottenville,4.1,7.5,0.6,6.7
+Winter 2015-16,UHF42,101,4,Kingsbridge - Riverdale,19.4,8.4,0.8,19.5
+Winter 2015-16,UHF42,102,4,Northeast Bronx,22.3,8.3,0.9,21.2
+Winter 2015-16,UHF42,103,4,Fordham - Bronx Pk,22.3,8.3,0.9,21.5
+Winter 2015-16,UHF42,104,4,Pelham - Throgs Neck,25.2,8.1,0.9,22
+Winter 2015-16,UHF42,105,4,Crotona -Tremont,25.4,8.8,1.1,24.1
+Winter 2015-16,UHF42,106,4,High Bridge - Morrisania,24.8,8.7,1,24.8
+Winter 2015-16,UHF42,107,4,Hunts Point - Mott Haven,23.9,8.8,1,24
+Winter 2015-16,UHF42,201,4,Greenpoint,29,10.2,1.2,25.7
+Winter 2015-16,UHF42,202,4,Downtown - Heights - Slope,29.8,9.8,1,25.7
+Winter 2015-16,UHF42,203,4,Bedford Stuyvesant - Crown Heights,27.8,8.8,0.8,24.8
+Winter 2015-16,UHF42,204,4,East New York,28.2,8.4,0.8,23.3
+Winter 2015-16,UHF42,205,4,Sunset Park,25.7,9.3,1,23.7
+Winter 2015-16,UHF42,206,4,Borough Park,24.5,8.2,0.8,23.7
+Winter 2015-16,UHF42,207,4,East Flatbush - Flatbush,27.2,8.4,0.8,23.8
+Winter 2015-16,UHF42,208,4,Canarsie - Flatlands,25,7.6,0.7,20.9
+Winter 2015-16,UHF42,209,4,Bensonhurst - Bay Ridge,22.8,7.7,0.8,22.7
+Winter 2015-16,UHF42,210,4,Coney Island - Sheepshead Bay,23.5,7,0.7,21.3
+Winter 2015-16,UHF42,211,4,Williamsburg - Bushwick,27,9.4,1,25.3
+Winter 2015-16,UHF42,301,4,Washington Heights,24.4,8.5,1,23.4
+Winter 2015-16,UHF42,302,4,Central Harlem - Morningside Heights,25.1,8.4,1.1,25.7
+Winter 2015-16,UHF42,303,4,East Harlem,27.8,8.6,1.1,26
+Winter 2015-16,UHF42,304,4,Upper West Side,31.4,8.8,1.1,26.4
+Winter 2015-16,UHF42,305,4,Upper East Side,38.5,9.3,1.3,28
+Winter 2015-16,UHF42,306,4,Chelsea - Clinton,39.2,10.7,1.5,30.8
+Winter 2015-16,UHF42,307,4,Gramercy Park - Murray Hill,40.2,11,1.5,32.4
+Winter 2015-16,UHF42,308,4,Greenwich Village - SoHo,43.4,10.2,1.5,29
+Winter 2015-16,UHF42,309,4,Union Square - Lower East Side,36.4,9.7,1.3,27.9
+Winter 2015-16,UHF42,310,4,Lower Manhattan,33.1,10.3,1,29
+Winter 2015-16,UHF42,401,4,Long Island City - Astoria,24.5,9.1,1,25.2
+Winter 2015-16,UHF42,402,4,West Queens,26,8.6,0.9,25
+Winter 2015-16,UHF42,403,4,Flushing - Clearview,24.8,7.7,0.8,22.7
+Winter 2015-16,UHF42,404,4,Bayside - Little Neck,27.3,7.4,0.9,20.9
+Winter 2015-16,UHF42,405,4,Ridgewood - Forest Hills,26.6,8.1,0.8,23.4
+Winter 2015-16,UHF42,406,4,Fresh Meadows,26.7,7.5,0.8,22.7
+Winter 2015-16,UHF42,407,4,Southwest Queens,27.1,7.5,0.8,22.9
+Winter 2015-16,UHF42,408,4,Jamaica,27.8,7.4,0.8,22.4
+Winter 2015-16,UHF42,409,4,Southeast Queens,27.1,6.9,0.8,21
+Winter 2015-16,UHF42,410,4,Rockaways,26,5.9,0.6,18
+Winter 2015-16,UHF42,501,4,Port Richmond,16,8.1,0.7,21.3
+Winter 2015-16,UHF42,502,4,Stapleton - St. George,18.6,7.4,0.7,19.4
+Winter 2015-16,UHF42,503,4,Willowbrook,15.4,7.8,0.7,18.3
+Winter 2015-16,UHF42,504,4,South Beach - Tottenville,13.8,7.1,0.6,16.6
+Summer 2015,UHF42,101,4,Kingsbridge - Riverdale,7,9.6,1,14.3
+Summer 2015,UHF42,102,4,Northeast Bronx,8.2,9.7,1,15.8
+Summer 2015,UHF42,103,4,Fordham - Bronx Pk,9.3,9.7,1,16
+Summer 2015,UHF42,104,4,Pelham - Throgs Neck,9.3,9.7,1,15.1
+Summer 2015,UHF42,105,4,Crotona -Tremont,12.2,10.3,1.2,17.8
+Summer 2015,UHF42,106,4,High Bridge - Morrisania,12.1,10.3,1.2,18.1
+Summer 2015,UHF42,107,4,Hunts Point - Mott Haven,9.5,10.3,1.2,16.5
+Summer 2015,UHF42,201,4,Greenpoint,11,11,1.3,17
+Summer 2015,UHF42,202,4,Downtown - Heights - Slope,12.3,10.3,1.1,17.4
+Summer 2015,UHF42,203,4,Bedford Stuyvesant - Crown Heights,10.1,9.5,0.9,16
+Summer 2015,UHF42,204,4,East New York,9.9,9.5,0.9,13.9
+Summer 2015,UHF42,205,4,Sunset Park,9.8,10,1,15
+Summer 2015,UHF42,206,4,Borough Park,9.8,9.2,0.8,14.6
+Summer 2015,UHF42,207,4,East Flatbush - Flatbush,10.8,9.3,0.8,14.5
+Summer 2015,UHF42,208,4,Canarsie - Flatlands,8.6,9,0.7,10.8
+Summer 2015,UHF42,209,4,Bensonhurst - Bay Ridge,9.4,8.9,0.8,13.3
+Summer 2015,UHF42,210,4,Coney Island - Sheepshead Bay,9.3,8.8,0.7,11.1
+Summer 2015,UHF42,211,4,Williamsburg - Bushwick,9.2,10.2,1.1,16.5
+Summer 2015,UHF42,301,4,Washington Heights,12.1,9.9,1.2,17.3
+Summer 2015,UHF42,302,4,Central Harlem - Morningside Heights,11.6,10,1.2,19
+Summer 2015,UHF42,303,4,East Harlem,14.1,10.2,1.2,18.6
+Summer 2015,UHF42,304,4,Upper West Side,19.2,10.4,1.3,19.8
+Summer 2015,UHF42,305,4,Upper East Side,22.3,10.9,1.5,21.6
+Summer 2015,UHF42,306,4,Chelsea - Clinton,23,12,1.6,25.6
+Summer 2015,UHF42,307,4,Gramercy Park - Murray Hill,28.1,12.5,1.6,27.7
+Summer 2015,UHF42,308,4,Greenwich Village - SoHo,21.1,11,1.7,22.4
+Summer 2015,UHF42,309,4,Union Square - Lower East Side,17.6,10.5,1.4,20.8
+Summer 2015,UHF42,310,4,Lower Manhattan,19,11,1.2,22.9
+Summer 2015,UHF42,401,4,Long Island City - Astoria,9.3,10.5,1.2,16.7
+Summer 2015,UHF42,402,4,West Queens,9.9,10,1.1,16.3
+Summer 2015,UHF42,403,4,Flushing - Clearview,8.2,9.3,0.9,14.5
+Summer 2015,UHF42,404,4,Bayside - Little Neck,9.1,9.1,0.8,12.6
+Summer 2015,UHF42,405,4,Ridgewood - Forest Hills,9.4,9.3,0.9,14.3
+Summer 2015,UHF42,406,4,Fresh Meadows,9.3,9.1,0.8,14
+Summer 2015,UHF42,407,4,Southwest Queens,9.3,8.9,0.8,13.4
+Summer 2015,UHF42,408,4,Jamaica,9.6,9.1,0.8,13.3
+Summer 2015,UHF42,409,4,Southeast Queens,8.7,8.8,0.7,12
+Summer 2015,UHF42,410,4,Rockaways,8.9,8.3,0.6,7
+Summer 2015,UHF42,501,4,Port Richmond,6.2,9.1,0.8,13.1
+Summer 2015,UHF42,502,4,Stapleton - St. George,7.5,8.7,0.7,10.4
+Summer 2015,UHF42,503,4,Willowbrook,6.6,8.9,0.8,9.6
+Summer 2015,UHF42,504,4,South Beach - Tottenville,6.5,8.4,0.6,6.7
+Winter 2014-15,UHF42,101,4,Kingsbridge - Riverdale,21.5,10.2,0.9,21.2
+Winter 2014-15,UHF42,102,4,Northeast Bronx,23.2,10.1,1,23.4
+Winter 2014-15,UHF42,103,4,Fordham - Bronx Pk,24.8,10.2,1,23.3
+Winter 2014-15,UHF42,104,4,Pelham - Throgs Neck,24.5,9.9,1,23.7
+Winter 2014-15,UHF42,105,4,Crotona -Tremont,27.6,10.6,1.1,25.6
+Winter 2014-15,UHF42,106,4,High Bridge - Morrisania,27.5,10.6,1.1,26
+Winter 2014-15,UHF42,107,4,Hunts Point - Mott Haven,25,10.5,1.1,25.2
+Winter 2014-15,UHF42,201,4,Greenpoint,29.1,10.8,1.2,26.8
+Winter 2014-15,UHF42,202,4,Downtown - Heights - Slope,30.3,10,1.1,27
+Winter 2014-15,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.2,9.1,0.8,26.4
+Winter 2014-15,UHF42,204,4,East New York,26.8,9.1,0.8,25
+Winter 2014-15,UHF42,205,4,Sunset Park,26.9,9.6,1,25.4
+Winter 2014-15,UHF42,206,4,Borough Park,26.4,8.7,0.7,25.8
+Winter 2014-15,UHF42,207,4,East Flatbush - Flatbush,28.1,8.8,0.8,25.7
+Winter 2014-15,UHF42,208,4,Canarsie - Flatlands,24.5,8.4,0.7,23.1
+Winter 2014-15,UHF42,209,4,Bensonhurst - Bay Ridge,25.1,8.5,0.7,24.9
+Winter 2014-15,UHF42,210,4,Coney Island - Sheepshead Bay,24.4,8.1,0.6,24
+Winter 2014-15,UHF42,211,4,Williamsburg - Bushwick,27.6,10,1,26.6
+Winter 2014-15,UHF42,301,4,Washington Heights,27.7,10.3,1.1,24.6
+Winter 2014-15,UHF42,302,4,Central Harlem - Morningside Heights,28.3,10.2,1.1,26.7
+Winter 2014-15,UHF42,303,4,East Harlem,30.7,10.3,1.1,27
+Winter 2014-15,UHF42,304,4,Upper West Side,37.8,10.6,1.1,27.4
+Winter 2014-15,UHF42,305,4,Upper East Side,42.5,11,1.3,29.2
+Winter 2014-15,UHF42,306,4,Chelsea - Clinton,43,12.1,1.5,32.1
+Winter 2014-15,UHF42,307,4,Gramercy Park - Murray Hill,47.7,12.6,1.5,33.9
+Winter 2014-15,UHF42,308,4,Greenwich Village - SoHo,43.2,11,1.4,30.2
+Winter 2014-15,UHF42,309,4,Union Square - Lower East Side,38.4,10.5,1.3,29.1
+Winter 2014-15,UHF42,310,4,Lower Manhattan,37.3,10.9,1.1,30.3
+Winter 2014-15,UHF42,401,4,Long Island City - Astoria,26.6,10.4,1.1,26.2
+Winter 2014-15,UHF42,402,4,West Queens,26.8,9.9,1,26.2
+Winter 2014-15,UHF42,403,4,Flushing - Clearview,23.9,9.2,0.8,24
+Winter 2014-15,UHF42,404,4,Bayside - Little Neck,24.2,8.8,0.8,22.3
+Winter 2014-15,UHF42,405,4,Ridgewood - Forest Hills,26.5,9.1,0.8,24.7
+Winter 2014-15,UHF42,406,4,Fresh Meadows,25,8.8,0.8,24
+Winter 2014-15,UHF42,407,4,Southwest Queens,25.4,8.5,0.7,24.5
+Winter 2014-15,UHF42,408,4,Jamaica,24.8,8.6,0.7,23.9
+Winter 2014-15,UHF42,409,4,Southeast Queens,23.2,8.2,0.6,22.7
+Winter 2014-15,UHF42,410,4,Rockaways,22.7,7.4,0.5,20.7
+Winter 2014-15,UHF42,501,4,Port Richmond,19.1,9,0.8,22.7
+Winter 2014-15,UHF42,502,4,Stapleton - St. George,21.4,8.4,0.6,21.3
+Winter 2014-15,UHF42,503,4,Willowbrook,17.9,8.8,0.7,19.9
+Winter 2014-15,UHF42,504,4,South Beach - Tottenville,14.8,8,0.6,18.3
